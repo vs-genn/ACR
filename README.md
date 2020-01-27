@@ -1,5 +1,4 @@
-# ACR
-The AutoCellRow (ACR) software
+# The AutoCellRow (ACR)
 
 The AutoCellRow (ACR) is a free libre open-source image-analysis tool to perform measurements of xylem cell traits in
 high-quality images e.g., .tiff, .jpg, .bmp, .png, formats) developed in Python Programming Language and working in
