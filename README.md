@@ -12,3 +12,4 @@ interest for the seasonal analysis of xylem cell traits.
 
 Thus, ACR offers an excellent alternative to the general and semiautomatic QWA tools currently available.
 
+![Image of ACR](http://vs-genn.ru/acr/Figure_1.png)
