@@ -13,3 +13,7 @@ interest for the seasonal analysis of xylem cell traits.
 Thus, ACR offers an excellent alternative to the general and semiautomatic QWA tools currently available.
 
 ![Image of ACR](http://vs-genn.ru/acr/Figure_1.png)
+
+----
+
+ Test.jpg - test ACR image of cell profile (Resolution ratio = 2.26 mkm/pixel).
