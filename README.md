@@ -17,3 +17,7 @@ Thus, ACR offers an excellent alternative to the general and semiautomatic QWA t
 ----
 
  Test.jpg - test ACR image of cell profile (Resolution ratio = 2.26 mkm/pixel).
+ 
+ ----
+ 
+ Please feel free to send questions/comments/doubts/suggestions/bugs etc. create an issue [https://github.com/vs-genn/ACR/issues/new].
